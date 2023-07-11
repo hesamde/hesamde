@@ -17,7 +17,6 @@ I'm Hesam, a Junior Web Developer, from Germany!
 If you want to know me better, check out my in LINkEDIN profile. Feel free to connect with me! profile. Feel free to connect with me! ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&&target=_blanklogoColor=white&link=https://www.linkedin.com/in/hesamde/) 
 
 ###
-![Stats](https://github-readme-stats.vercel.app/api?username=hesamde&show_icons=true&count_private=true)
 
 
 ##  Languages and Tools
