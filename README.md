@@ -3,18 +3,18 @@
 
 I'm Hesam, a Junior Web Developer, from Germany!
 
-  • 🔭I've just finished a Full-Stack Web Development Bootcamp
+  • 🔭 I participate in a comprehensive Full-Stack Web Development Bootcamp.
   
-  •💻I'm currently looking for a Junior Web Developer Position
+  • 💻 I'm currently looking for a Junior Web Developer Position
   
   • 🌱 I'm learning React.js
   
-  •  I worked as a Freelancer in Human Recource for 10 years
+  • 📚 I worked as a Freelancer in Human resources for 10 years
   
   
  ## Contact
 
-If you want to know me better, check out my in LINkEDIN profile. Feel free to connect with me! profile. Feel free to connect with me! ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&&target=_blanklogoColor=white&link=https://www.linkedin.com/in/hesamde/) 
+If you want to know me better, check out my LINkEDIN profile. Feel free to connect with me! profile. Feel free to connect with me! ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&&target=_blanklogoColor=white&link=https://www.linkedin.com/in/hesamde/) 
 
 ###
 
