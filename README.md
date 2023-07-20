@@ -5,7 +5,7 @@
  <img src="https://skillicons.dev/icons?i=javascript,mongodb,expressjs,react,nodejs" alt="Node.js, React, Next.js," />
 </p>
 <br/>
-#### <div align="center">📚 I worked as a Startup Recruitment and Employer Branding Strategist in - Hospitality Industry for 10 years</div>
+<div align="center">📚 I worked as a Startup Recruitment and Employer Branding Strategist in - Hospitality Industry for 10 years</div>
 <br/>
  ## Contact
 <br/>
