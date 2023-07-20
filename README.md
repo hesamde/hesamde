@@ -1,6 +1,9 @@
 ### <div align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Reem+Kufi&weight=500&size=27&duration=3000&pause=2000&color=FFFAFA&background=0c1117&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Hesam!+%20+Nice+to+meet+you+%F0%9F%91%8B)](https://git.io/typing-svg)</div>
 
 #### <div align="center">🧑‍💻 Full-Stack Web Developer  |  ES6+  |  MERN Stack</div>
+<p align="center">
+ <img src="https://skillicons.dev/icons?i=javascript,mongodb,expressjs,react,nodejs" alt="Node.js, React, Next.js," />
+</p>
 #### <div align="center">📚 I worked as a Startup Recruitment and Employer Branding Strategist in - Hospitality Industry for 10 years</div>
 
  ## Contact
@@ -10,10 +13,8 @@ If you want to know me better, check out my LINkEDIN profile. Feel free to conne
 ###
 
 
-<h2>I work with this tech</h2>
-<p align="center">
- <img src="https://skillicons.dev/icons?i=javascript,mongodb,expressjs,react,nodejs" alt="Node.js, React, Next.js," />
-</p>
+
+
 
 
 
