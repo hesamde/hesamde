@@ -8,20 +8,12 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hesamde&layout=compact&theme=swift&hide_border=true&bg_color=FFFFFF66)
 
 </div>
-<div align="center">
-  
-
-<br/> 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hesamde&layout=compact&theme=swift&hide_border=true&bg_color=FFFFFF66)
-</div>
-    
   
  ## Contact
 
 If you want to know me better, check out my LINkEDIN profile. Feel free to connect with me! profile. Feel free to connect with me! ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&&target=_blanklogoColor=white&link=https://www.linkedin.com/in/hesamde/) 
 
 ###
-
 
 ##  Languages and Tools
 
