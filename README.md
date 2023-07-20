@@ -10,7 +10,6 @@
 <br/>
 <div align="center">📚 I worked as a Startup Recruitment and Employer Branding Strategist in Hospitality Industry for 10 years</div>
 <br/>
-
 <br/>
 <br/> 
 <br/> 
@@ -24,7 +23,6 @@
   🔍 Looking to bring my attention to detail to visually appealing web applications.<br/>
   
 </div>
-    
 <br/>  
 <br/>
 
@@ -34,9 +32,6 @@
 <br/>
 <br/> 
 <br/> 
-<br/> 
-<br/>  
-<br/>  
 <br/> 
 <br/>  
 
