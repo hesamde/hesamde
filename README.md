@@ -1,8 +1,7 @@
 ### <div align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Reem+Kufi&weight=500&size=27&duration=3000&pause=2000&color=FFFAFA&background=0c1117&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Hesam!+%20+Nice+to+meet+you+%F0%9F%91%8B)](https://git.io/typing-svg)</div>
 
+#### <div align="center">🧑‍💻 Full-Stack Web Developer  |  ES6+  |  MERN Stack</div>
 
-
-  • 🔭 I participate in a comprehensive Full-Stack Web Development Bootcamp.
   
   • 💻 I'm currently looking for a Junior Web Developer Position
   
