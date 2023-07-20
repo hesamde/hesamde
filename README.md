@@ -6,13 +6,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hesamde&layout=compact&theme=swift&hide_border=true&bg_color=FFFFFF66)
 
 
-  
-  
-  
-
-  
-  • 📚 I worked as a Freelancer in Human resources for 10 years
-  
+    
   
  ## Contact
 
