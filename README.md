@@ -9,6 +9,15 @@ If you want to know me better, check out my LINkEDIN profile. Feel free to conne
 
 ###
 
+
+<h2>I work with this tech</h2>
+<p align="center">
+ <img src="https://skillicons.dev/icons?i=javascript,mongodb,expressjs,React,Node.js" alt="/>
+</p>
+
+
+
+
 ###  Languages and Tools
 
  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
