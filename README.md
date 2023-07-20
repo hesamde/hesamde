@@ -8,6 +8,12 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hesamde&layout=compact&theme=swift&hide_border=true&bg_color=FFFFFF66)
 
 </div>
+<div align="center">
+  
+
+<br/> 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hesamde&layout=compact&theme=swift&hide_border=true&bg_color=FFFFFF66)
+</div>
     
   
  ## Contact
