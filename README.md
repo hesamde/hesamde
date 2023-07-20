@@ -4,21 +4,14 @@
 <p align="center">
  <img src="https://skillicons.dev/icons?i=javascript,mongodb,expressjs,react,nodejs" alt="Node.js, React, Next.js," />
 </p>
+<br/>
 #### <div align="center">📚 I worked as a Startup Recruitment and Employer Branding Strategist in - Hospitality Industry for 10 years</div>
-
+<br/>
  ## Contact
-
+<br/>
 If you want to know me better, check out my LINkEDIN profile. Feel free to connect with me! profile. Feel free to connect with me! ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&&target=_blanklogoColor=white&link=https://www.linkedin.com/in/hesamde/) 
-
-###
-
-
-
-
-
-
-
-
+<br/>
+<br/>
 ###  Languages and Tools
 
  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
