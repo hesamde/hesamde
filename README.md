@@ -12,7 +12,7 @@ If you want to know me better, check out my LINkEDIN profile. Feel free to conne
 
 <h2>I work with this tech</h2>
 <p align="center">
- <img src="https://skillicons.dev/icons?i=javascript,mongodb,expressjs,React,Node.js" alt="/>
+ <img src="https://skillicons.dev/icons?i=javascript,mongodb,expressjs,react,Node.js" alt="Node.js, React, Next.js," />
 </p>
 
 
