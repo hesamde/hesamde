@@ -2,13 +2,7 @@
 
 #### <div align="center">🧑‍💻 Full-Stack Web Developer  |  ES6+  |  MERN Stack</div>
 #### <div align="center">📚 I worked as a Startup Recruitment and Employer Branding Strategist in - Hospitality Industry for 10 years</div>
-<div align="center">
 
-<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hesamde&layout=compact&theme=swift&hide_border=true&bg_color=FFFFFF66)
-
-</div>
-  
  ## Contact
 
 If you want to know me better, check out my LINkEDIN profile. Feel free to connect with me! profile. Feel free to connect with me! ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&&target=_blanklogoColor=white&link=https://www.linkedin.com/in/hesamde/) 
@@ -27,3 +21,10 @@ If you want to know me better, check out my LINkEDIN profile. Feel free to conne
  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
  ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+<div>
+
+<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hesamde&layout=compact&theme=swift&hide_border=true&bg_color=FFFFFF66)
+
+</div>
+  
