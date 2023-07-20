@@ -8,6 +8,36 @@
 <div align="center">📚 I worked as a Startup Recruitment and Employer Branding Strategist in - Hospitality Industry for 10 years</div>
 <br/>
 
+<br/>
+<br/> 
+<br/> 
+<br/> 
+<br/> 
+<br/> 
+<br/>
+
+#### <div align="center"> About Me</div>
+<div align="center">
+  🏃🏻 Runner and patient individual with a passion for coding.<br/>
+  🌱 Curious, love new challenges to learn and grow from.<br/>
+  🔍 Looking to bring my attention to detail to visually appealing web applications.<br/>
+  
+</div>
+    
+<br/>  
+<br/>
+
+#### <div align="center">📲 Get in Touch</div> 
+<div align="center"><a href="mailto:gunnar.miklis@gmail.com">gunnar.miklis@gmail.com</a></div>  
+
+<br/>
+<br/> 
+<br/> 
+<br/> 
+<br/>  
+<br/>  
+<br/> 
+<br/>  
 
  ### Contact
 
