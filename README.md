@@ -28,7 +28,7 @@
 <br/>
 
 #### <div align="center">📲 Get in Touch</div> 
-<div align="center"><a href="mailto:hdm.hesam@gmail.com">gunnar.miklis@gmail.com</a></div>  
+<div align="center"><a href="mailto:hdm.hesam@gmail.com">hdm.hesam@gmail.com</a></div>  
 
 <br/>
 <br/> 
