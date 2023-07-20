@@ -14,8 +14,6 @@
  
 <br/>
 If you want to know me better, check out my LINkEDIN profile. Feel free to connect with me! profile. Feel free to connect with me! ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&&target=_blanklogoColor=white&link=https://www.linkedin.com/in/hesamde/) 
-<br/>
-<br/>
 
 
 ###  Languages and Tools
