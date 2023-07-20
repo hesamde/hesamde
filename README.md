@@ -15,9 +15,7 @@
 <br/> 
 <br/> 
 <br/> 
-<br/> 
-<br/> 
-<br/>
+
 
 #### <div align="center"> About Me</div>
 <div align="center">
