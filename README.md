@@ -8,7 +8,7 @@
 #### <div align="center">🧑‍💻 Full-Stack Web Developer  |  ES6+  |  MERN Stack</div>
 
 <br/>
-<div align="center">📚 I worked as a Startup Recruitment and Employer Branding Strategist in Hospitality Industry for 10 years</div>
+<div align="center">📚 I worked as a Startup Recruitment and Employer Branding Strategist in Hospitality Industry for more than 10 years</div>
 <br/>
 <br/>
 <br/> 
