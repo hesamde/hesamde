@@ -16,27 +16,24 @@
 
 
 ###
-<div> About Me</div>
+About Me
 
-<div>
-   🌱 Curious, love new challenges to learn and grow from.
- <br/>
-  🔍 Looking to bring my attention to detail to visually appealing web applications.
- <br/>
-  🏃🏻 Runner and patient individual with a passion for coding.
-  <br/>
+🌱 Curious, love new challenges to learn and grow from.
+<br/>
+🔍 Looking to bring my attention to detail to visually appealing web applications.
+<br/>
+🏃🏻 Runner and patient individual with a passion for coding.
+<br/>
 <ul> - Achievement 5000 kilometers Berlin Night Run 2023 🏅 in 25 minute</ul>
 <ul> - Planning for 15000 kilometers 2023 </ul>
 
-  
-</div>
-<br/>  
-<br/> 
+
 <br/>  
 
- ### Contact
 
- 📧 : <a href="mailto:hdm.hesam@gmail.com">hdm.hesam@gmail.com</a>  ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&&target=_blanklogoColor=white&link=https://www.linkedin.com/in/hesamde/) 
+### Contact
+
+📧 : <a href="mailto:hdm.hesam@gmail.com">hdm.hesam@gmail.com</a>  ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&&target=_blanklogoColor=white&link=https://www.linkedin.com/in/hesamde/) 
 <br/>
 
 
