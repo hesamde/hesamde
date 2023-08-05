@@ -26,7 +26,7 @@
 <br/>  
 <br/>
 
-#### <div align="center">📲 Get in Touch</div> 
+#### <div>📲 Get in Touch</div> 
 <div align="center"><a href="mailto:hdm.hesam@gmail.com">hdm.hesam@gmail.com</a></div>  
 
 <br/>
