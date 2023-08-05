@@ -17,7 +17,8 @@
 #### <div> About Me</div>
 
 <div>
-  🏃🏻 Runner and patient individual with a passion for coding. Achievement 5K Berlin Night Run 2023 🏅
+  🏃🏻 Runner and patient individual with a passion for coding. 
+ <td>Achievement 5K Berlin Night Run 2023 🏅</td>
  <br/>
   🌱 Curious, love new challenges to learn and grow from.
  <br/>
