@@ -9,7 +9,7 @@
 
 <br/>
 <div align="center">📚 I worked as a Startup Recruitment and Employer Branding Strategist in Hospitality Industry for more than 10 years
-                    💻 I am currently learning more about MERN Stack Method and planning to learn NEXT.js 
+                    💻 I am currently learning more about MERN Stack Method and planning to learn NEXT.js> 
 <br/>
 <br/> 
 
