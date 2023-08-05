@@ -17,9 +17,12 @@
 #### <div> About Me</div>
 
 <div>
-  🏃🏻 Runner and patient individual with a passion for coding.<br/>
-  🌱 Curious, love new challenges to learn and grow from.<br/>
-  🔍 Looking to bring my attention to detail to visually appealing web applications.<br/>
+  🏃🏻 Runner and patient individual with a passion for coding. Achievement 5K Berlin Night Run 2023 🏅
+ <br/>
+  🌱 Curious, love new challenges to learn and grow from.
+ <br/>
+  🔍 Looking to bring my attention to detail to visually appealing web applications.
+ <br/>
   
 </div>
 <br/>  
