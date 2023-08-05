@@ -10,9 +10,6 @@
 <br/>
 <div align="center">📚 I worked as a Startup Recruitment and Employer Branding Strategist in Hospitality Industry for more than 10 years</div>
 <br/>
-<br/>
-<br/> 
-<br/> 
 <br/> 
 
 
