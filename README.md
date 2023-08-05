@@ -35,7 +35,7 @@
 
  ### Contact
 
- #### <div>📲 Get in Touch</div> 
+ 📲 Get in Touch
  <a href="mailto:hdm.hesam@gmail.com">hdm.hesam@gmail.com</a>
 <br/>
 
