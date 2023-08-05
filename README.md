@@ -35,11 +35,10 @@
 
  ### Contact
 
- 📲 Get in Touch
  <a href="mailto:hdm.hesam@gmail.com">hdm.hesam@gmail.com</a>
 <br/>
 
-If you want to know me better, check out my Linkedin profile. Feel free to connect with me! profile. Feel free to connect with me! ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&&target=_blanklogoColor=white&link=https://www.linkedin.com/in/hesamde/) 
+ ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&&target=_blanklogoColor=white&link=https://www.linkedin.com/in/hesamde/) 
 
 
 ###  Languages and Tools
