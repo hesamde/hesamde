@@ -17,14 +17,15 @@
 #### <div> About Me</div>
 
 <div>
+   🌱 Curious, love new challenges to learn and grow from.
+ <br/>
+  🔍 Looking to bring my attention to detail to visually appealing web applications.
+ <br/>
   🏃🏻 Runner and patient individual with a passion for coding.
   <br/>
 <ul> - Achievement 5000 kilometers Berlin Night Run 2023 🏅 in 25 minute</ul>
 <ul> - Planning for 15000 kilometers 2023 </ul>
-  🌱 Curious, love new challenges to learn and grow from.
- <br/>
-  🔍 Looking to bring my attention to detail to visually appealing web applications.
- <br/>
+
   
 </div>
 <br/>  
