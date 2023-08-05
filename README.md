@@ -24,7 +24,7 @@ About Me
 <br/>
 🏃🏻 Runner and patient individual with a passion for coding.
 <br/>
-<li> Achievement 5000 kilometers Berlin Night Run 2023 🏅 in 25 minute</li>
+<li> Achievement 5000 kilometers Berlin Night Run 2023 🏅 " in 25 minute "</li>
 <li> Planning for 15000 kilometers 2023 </li>
 
 
