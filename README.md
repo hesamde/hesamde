@@ -19,7 +19,7 @@
 <div>
   🏃🏻 Runner and patient individual with a passion for coding.
   <br/>
-<ul> * Achievement 5K Berlin Night Run 2023 🏅 in 25 minute</ul>
+<ul> - Achievement 5K Berlin Night Run 2023 🏅 in 25 minute</ul>
 
   🌱 Curious, love new challenges to learn and grow from.
  <br/>
