@@ -5,10 +5,10 @@
 </p>
 
 
-#### <div align="center">👨🏻‍💻 Full-Stack Web Developer  |  ES6+  |  MERN Stack</div>
+#### <div>👨🏻‍💻 Full-Stack Web Developer  |  ES6+  |  MERN Stack</div>
 
 <br/>
-<div align="center">
+<div>
 📚 I worked as a Startup Recruitment and Employer Branding Strategist in Hospitality Industry for more than 10 years
  <br/>
 💻 I am currently learning more about MERN Stack Method and planning to learn NEXT.js
@@ -26,7 +26,7 @@
 <br/>  
 <br/>
 
-#### <div align="center">📲 Get in Touch</div> 
+#### <div>📲 Get in Touch</div> 
  <a href="mailto:hdm.hesam@gmail.com">hdm.hesam@gmail.com</a>
 </div>  
 
