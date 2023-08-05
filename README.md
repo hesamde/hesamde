@@ -8,7 +8,7 @@
 #### <div align="center">🧑‍💻 Full-Stack Web Developer  |  ES6+  |  MERN Stack</div>
 
 <br/>
-<div align="center">📚 I worked as a Startup Recruitment and Employer Branding Strategist in Hospitality Industry for more than 10 years</div>
+<div align="center">📚 I worked as a Startup Recruitment and Employer Branding Strategist in Hospitality Industry for more than 10 years
 <br/>
 <br/> 
 
@@ -54,5 +54,6 @@ If you want to know me better, check out my LINkEDIN profile. Feel free to conne
  ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hesamde&layout=compact&theme=swift&hide_border=true&bg_color=FFFFFF66)
+</div>
 
   
