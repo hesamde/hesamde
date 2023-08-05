@@ -5,9 +5,6 @@
  <img src="https://skillicons.dev/icons?i=javascript,mongodb,expressjs,react,nodejs,html,css,bootstrap" alt="Node.js, React, Next.js," />
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hesamde&layout=compact&theme=swift&hide_border=true&bg_color=FFFFFF66)
-</div>
-
 
 
 👨🏻‍💻 Full-Stack Web Developer  |  ES6+  |  MERN Stack
