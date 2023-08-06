@@ -32,9 +32,10 @@ About Me
 
 
 ### Contact
-
-📧 : <a href="mailto:hdm.hesam@gmail.com">hdm.hesam@gmail.com</a>  ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&&target=_blanklogoColor=white&link=https://www.linkedin.com/in/hesamde/) 
+![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&&target=_blanklogoColor=white&link=https://www.linkedin.com/in/hesamde/) 
 <br/>
+📧 : <a href="mailto:hdm.hesam@gmail.com">hdm.hesam@gmail.com</a>
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hesamde&layout=compact&theme=swift&hide_border=true&bg_color=FFFFFF66)
