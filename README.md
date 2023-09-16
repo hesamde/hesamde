@@ -4,6 +4,8 @@
   <img src="https://skillicons.dev/icons?i=javascript,mongodb,expressjs,react,nodejs,html,css,bootstrap" alt="Node.js, React, Next.js," />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js Logo" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="React Bootstrap Logo" width="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/handlebars/handlebars-original-wordmark.svg" alt="Handlebars Logo" width="50" />
+
 </p>
 
 
