@@ -2,9 +2,10 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=javascript,mongodb,expressjs,react,nodejs,html,css,bootstrap" alt="Node.js, React, Next.js," />
-  <img src="URL_TO_NODE_LOGO" alt="Node.js Logo" width="50" />
-  <img src="URL_TO_REACT_BOOTSTRAP_LOGO" alt="React Bootstrap Logo" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js Logo" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="React Bootstrap Logo" width="50" />
 </p>
+
 
 
 
