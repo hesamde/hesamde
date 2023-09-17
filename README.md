@@ -1,7 +1,7 @@
 ### <div align-items: center >[![Typing SVG](https://readme-typing-svg.demolab.com?font=Reem+Kufi&weight=500&size=27&duration=3000&pause=2000&color=FFFAFA&background=0c1117&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Hesam!+%20+Nice+to+meet+you+%F0%9F%91%8B)](https://git.io/typing-svg)</div>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=javascript,mongodb,expressjs,react,nodejs,html,css,bootstrap" alt="Node.js, React, Next.js," />
+  <img src="https://skillicons.dev/icons?i=react,mongodb,expressjs,javascript,nodejs,html,css,bootstrap" alt="Node.js, React, Next.js," />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js Logo" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="React Bootstrap Logo" width="50" />
 </p>
