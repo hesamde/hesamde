@@ -2,6 +2,7 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,mongodb,expressjs,javascript,nodejs,html,css,bootstrap" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js Logo" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="React Bootstrap Logo" width="50" />
 </p>
 
