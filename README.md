@@ -35,7 +35,7 @@ About Me
 <br/>  
 
 ### Contact
-![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&&target=_blanklogoColor=white&link=https://www.linkedin.com/in/hesamde/) 
+![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&&target=_blanklogoColor=white&link=https://www.linkedin.com/in/hesam-dehghan/) 
 <br/>
 📧 : <a href="mailto:hdm.hesam@gmail.com">hdm.hesam@gmail.com</a>
 
