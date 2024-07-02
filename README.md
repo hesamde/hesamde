@@ -10,7 +10,7 @@
 
 
 
-👨🏻‍💻 Full-Stack Web Developer  |  ES6+  |  MERN Stack
+👨🏻‍💻 Full-Stack Web Developer |  MERN Stack
  <br/>
 📚 I worked as a Startup Recruitment and Employer Branding Strategist in Hospitality Industry for more than 10 years
 <br/> 
